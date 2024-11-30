@@ -1,4 +1,6 @@
 Keulen Steven Pineda Duque
+Jennifer Cristina Chamorro
+
 Uso:
 1. Descargue los archivos
 2. abralos en su editor de codigo
